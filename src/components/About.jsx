@@ -1,4 +1,5 @@
 import aboutImg from "../assets/about.jpg"
+import doict from "../assets/image.png"
 import { ABOUT_TEXT } from "../constants"
 
 function About() {
@@ -10,7 +11,7 @@ function About() {
         <div className="flex flex-wrap">
           <div className="w-full lg:w-1/2 lg:p-8">
             <div className="flex items-center justify-center">
-              <img src={aboutImg} className="rounded-2xl" alt="" />
+              <img src={doict} className="rounded-2xl" alt="" />
             </div>
            </div>
            <div className="w-full lg:w-1/2">
