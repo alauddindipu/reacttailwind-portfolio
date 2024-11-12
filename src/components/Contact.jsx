@@ -5,9 +5,9 @@ const Contact = () => {
     <div className="border-b border-neutral-900 pb-20">
       <h2 className="my-10 text-center text-4xl">Get in Touch</h2>
       <div>
-      <a
+        <a
           className="relative m-auto flex w-max cursor-pointer items-center space-x-4 rounded-lg border bg-slate-200 p-2 px-10"
-          href={'https://drive.google.com/file/d/1y07DZdv7oPGucnDmmwLa_DWzNCjbxTyY/view'}
+          href={'https://drive.google.com/file/d/17-L-kCxy2NUSWv0CqVOzEIxWyfsT2-KY/view?usp=sharing'}
           target={'_blanck'}
           rel="noreferrer"
         >

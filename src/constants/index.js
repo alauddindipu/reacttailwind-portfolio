@@ -15,32 +15,46 @@ I thrive in collaborative environments and enjoy solving complex problems to del
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "2019 - Present",
+    role: "Assistant Programmer",
+    company: "DoICT, Ministry of Posts, Telecommunications and Information.",
+    description: `Upazila ICT officer, developed and maintaining TCV Card Mangement applications using PHP, MySQl. Recently completed Bootcamp for Remote Job Placement (ToT).`,
+    technologies: ["Javascript", "React.js", "Next.js", "Node.js", "MongoDB"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "2016 - 2019",
+    role: "Softare Engineer",
+    company: "LEADS Corporation Ltd.",
+    description: `Designed and developed user interfaces for Call Center Support applications using ASP.NET and Sql Server.`,
+    technologies: ["HTML", "CSS", "JS", "ASP.NET", "SQL Server"],
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    year: "2015 - 2016",
+    role: "Software Developer",
+    company: "IT Corner",
+    description: `Developed and maintained web applications using PHP and MySQL`,
+    technologies: ["HTML", "CSS", "JS", "PHP", "MySQL"],
   },
   {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "2015",
+    role: "Intern",
+    company: "Infosys, India",
+    description: `Intern in development of web applications using Java EE. 3 Months Experienced in Java Enterprise Edition.`,
+    technologies: ["Java", "Oracle"],
+  },
+  {
+    year: "2014",
+    role: "MS",
+    company: "University of Chittagong",
+    description: "CSE",
+    technologies: ["Artificial Intelligence", "Machine Learning"],
+  },
+  {
+    year: "2008-2013",
+    role: "BSc",
+    company: "University of Chittagong",
+    description: "CSE",
+    technologies: ["Programming", "Data Structure", "Algorithm"],
   },
 ];
 
@@ -48,35 +62,39 @@ export const PROJECTS = [
   {
     title: "E-Commerce Website",
     image: project1,
+    demo: `https://mern-books-shop.vercel.app/`,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication. Full-stack (MERN) Project, Building a Product Buy/Sell Shop.",
+    technologies: ["Tailwind CSS", "React", "Node.js", "MongoDB", "Firebase"],
   },
   {
-    title: "Task Management App",
+    title: "Book Shop",
     image: project2,
+    demo: `https://66f39e680bd155c92b7b4bdf--nimble-malasada-6a3f57.netlify.app/`,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "An application in React Router DOM with JSON data integration.",
+    technologies: ["HTML", "CSS", "React", "JS API"],
   },
   {
-    title: "Portfolio Website",
+    title: "Food Website",
     image: project3,
+    demo: `https://alauddindipu.github.io/Food-website/`,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "A Food selling website showcasing products information.",
+    technologies: ["Tailwind CSS", "Daisy UI", "JS API"],
   },
   {
-    title: "Blogging Platform",
+    title: "Secret Key Mather",
     image: project4,
+    demo: `https://alauddindipu.github.io/first-assignment-key-match/`,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A Java Script programme for Password Generation, Input Handling, Editing Input and Submission and Validation.",
+    technologies: ["HTML", "CSS", "Java Script"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Departmet of ICT, Sirajganj Sadar, Sirajganj.",
+  phoneNo: "+880 1701776353 ",
+  email: "alauddin.cu@gmail.com",
 };
